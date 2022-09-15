@@ -1,5 +1,5 @@
 
-## My Personal Chef
+## 👨‍🍳👩‍🍳My Personal Chef👩‍🍳👨‍🍳
 
 My Personal Chef é um aplicativo de receitas utilizando o que há de mais moderno 
 dentro do ecossistema React: Hooks e Context API!
