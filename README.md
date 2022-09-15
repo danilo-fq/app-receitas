@@ -34,8 +34,8 @@ _[My Personal Chef - App de receitas](https://app-receitas-one.vercel.app)_
 
 ### Autores
 
-- [@adfosta](https://github.com/adfcosta)
-- [@danilo-fq](https://github.com/danilo-fq)
-- [@GeovanaAugusta](https://github.com/GeovanaAugusta)
-- [@isabelarfloriano](https://github.com/isabelarfloriano)
-- [@pedropereiradev](https://github.com/pedropereiradev)
+👨‍🍳 [@adfosta](https://github.com/adfcosta)
+👨‍🍳 [@danilo-fq](https://github.com/danilo-fq)
+👩‍🍳 [@GeovanaAugusta](https://github.com/GeovanaAugusta)
+👩‍🍳 [@isabelarfloriano](https://github.com/isabelarfloriano)
+👨‍🍳 [@pedropereiradev](https://github.com/pedropereiradev)
